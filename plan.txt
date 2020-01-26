@@ -1,0 +1,7 @@
+ Initial plan
+
+ 1. Research other top crowdfunding website
+ 2. Make wireframes
+ 3. Consult with Dani about A-Z development(stack) and publishing it: paymnet processing is key here
+ 4. Plan out MVP
+ 5. Reseach on paperwork and legal part
